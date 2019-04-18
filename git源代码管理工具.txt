@@ -1,0 +1,5 @@
+1、安装"Git Bash"
+2、安装"TortoiseGit"；(TortoiseGit 简称 tgit, 中文名海龟Git)
+3、使用Puttygen 生成密钥，保存key到本地
+4、登录github账号，点击Settings进入设置；点击SSH KEY
+5、本地克隆 添加URL,  加载putty密钥.选择生成保存的文件
